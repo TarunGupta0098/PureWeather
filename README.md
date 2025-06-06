@@ -44,7 +44,7 @@ PureWeather is a clean and responsive weather web app that fetches real-time wea
 ![Home Page](screenshots/home.png)
 *Current weather display*
 
-![Forecast](screenshots/forecast.png)
+![Forecast](public/forecast.png)
 *5-day forecast layout*
 
 ---
