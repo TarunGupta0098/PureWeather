@@ -25,16 +25,14 @@ PureWeather is a clean and responsive weather web app that fetches real-time wea
 
 ## 🛠️ Technologies Used
 
-## 🛠 Tech Stack
-
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) **Next.js**
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) **React**
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript**
-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**
-- ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white) **TanStack Query** (React Query)
-- ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=flat&logo=vercel&logoColor=white) **Shadcn UI**
-- ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=flat&logo=chartdotjs&logoColor=white) **Recharts**
-- ![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-FF7F50?style=flat&logo=cloud&logoColor=white) **Weather API** (OpenWeatherMap)
+- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
+- ![TanStack Query (React Query)](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white) 
+- ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=flat&logo=vercel&logoColor=white) 
+- ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=flat&logo=chartdotjs&logoColor=white) 
+- ![OpenWeatherMap (Weather API)](https://img.shields.io/badge/OpenWeatherMap-FF7F50?style=flat&logo=cloud&logoColor=white) 
 
 
 ---
