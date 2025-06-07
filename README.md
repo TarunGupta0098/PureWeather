@@ -41,11 +41,14 @@ PureWeather is a clean and responsive weather web app that fetches real-time wea
 
 > Add screenshots of your application here by uploading images in a `screenshots/` folder and referencing them below.
 
-![Home Page](screenshots/home.png)
+![Home Page](public/home.png)
 *Current weather display*
 
 ![Forecast](public/forecast.png)
 *5-day forecast layout*
+
+![Search](public/searchCity.png)
+*Search your favourite city*
 
 ---
 
